@@ -1,0 +1,8 @@
+constants.py
+.ipynb_checkpoints
+*.ipynb
+ocr_results/*
+uploads/*
+*.json
+*.pdf
+__pycache__/*
